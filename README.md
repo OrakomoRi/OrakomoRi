@@ -14,10 +14,6 @@
 - :seedling: I'm a Frontend/Backend developer
 - :fire: I'm currently learning **React** and **NodeJS**
 
-<br>
-<br>
-<br>
-
 <div id="languages_tools">
 	<h3>Languages and Tools</h3>
 	<br>
@@ -35,10 +31,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="25" height="25"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp;
 </div>
-
-<br>
-<br>
-<br>
 
 ### Statistics
 
