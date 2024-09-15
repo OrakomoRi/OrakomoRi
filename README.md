@@ -3,10 +3,6 @@
 	<h3>Full-Stack Developer</h3>
 </div>
 
-<br>
-<br>
-<br>
-
 ### About me
 
 - :chart: I like to learn new things
