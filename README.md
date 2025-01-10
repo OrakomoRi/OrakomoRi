@@ -8,7 +8,7 @@
 - :chart: I like to learn new things
 - :globe_with_meridians:  I speak Russian and English
 - :seedling: I'm a Frontend/Backend developer
-- :fire: I'm currently learning **React** and **NodeJS**
+- :fire: I'm currently learning **Vue3** and **Laravel**
 
 <div id="languages_tools">
 	<h3>Languages and Tools</h3>
